@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently expanding my knowledge on mobile development
 - 👯 I’m looking to collaborate on OpenSource projects
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I speak Polish and English
+- ⚡ Fun fact: I speak Polish and English, I'm still getting my head around using GitHub
 <!--- 🤔 I’m looking for help with -->
 # 📫 Catch me here:
 <p><a href="https://www.linkedin.com/in/maciejkolacinski/" rel="nofollow"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/2x/linkedin.png" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;"></a>
