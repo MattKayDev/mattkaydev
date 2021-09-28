@@ -1,5 +1,5 @@
 ### Hello World, I'm Maciej 👋
-## I'm Partner, Gamer, Developer 
+## I'm Partner, Gamer & Developer 
 
 Here are some ideas to get you started:
 
