@@ -1,5 +1,5 @@
 ### Hello World, I'm Maciej 👋
-## Some people would call me a <b>Software Developer</b> 😄
+## Some people would call me a <strong>Software Developer</strong> 😄
 
 Here are some ideas to get you started:
 
