@@ -3,9 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on completely private messaging app
-- 🌱 I’m currently expanding my knowledge on mobile development
-- 👯 I’m looking to collaborate on OpenSource projects
+- 🌱 I’m currently expanding my knowledge on web development
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I speak Polish and English, I'm still getting my head around using GitHub
 <!--- 🤔 I’m looking for help with -->
