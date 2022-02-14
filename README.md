@@ -1,5 +1,5 @@
 ### Hello World, I'm Maciej 👋
-## I'm Partner, Gamer & Developer 
+## Some people would call me a software developer and some would call me a gamer
 
 Here are some ideas to get you started:
 
