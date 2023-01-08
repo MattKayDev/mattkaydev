@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 
 # Technologies used by me:
 <p>
-  <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="max-width: 100%;">
-<img align="left" alt="VBNet" width="26px" src="https://th.bing.com/th/id/OIP.H3qcLAD1aX2NWAWB5uarBQHaHa?pid=ImgDet&rs=1" style="max-width: 100%;">
+  <!--<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="max-width: 100%;">
+<img align="left" alt="VBNet" width="26px" src="https://th.bing.com/th/id/OIP.H3qcLAD1aX2NWAWB5uarBQHaHa?pid=ImgDet&rs=1" style="max-width: 100%;">-->
+  <img align="left" alt=".Net" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" style="max-width: 100%;">
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;">  
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;">
