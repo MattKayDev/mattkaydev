@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m always expanding my knowledge
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm Polish but English is preffered language of choice and when I speak to family I use "Ponglish" (mixture of Polish & English)
-- 👶 I'm a <b>Dad</b> of <b id="age">2</b> months old🎉
+- 👶 I'm a <b>Dad</b> of <b id="age">2*</b> month old boy ❤️ 🎉
 - <img align="center" alt=".Net" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" style="max-width: 26px;"> framework and C# langauge are technoligies I prefer to use
 <!--- 🤔 I’m looking for help with -->
 # 📫 Catch me here:
